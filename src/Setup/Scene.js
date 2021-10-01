@@ -1,8 +1,20 @@
-import { Canvas } from '@react-three/fiber'
-import * as THREE from 'three'
-import { Stats, OrbitControls, GizmoHelper, GizmoViewport } from '@react-three/drei'
+import { Canvas } from "@react-three/fiber";
+import * as THREE from "three";
+import {
+  Stats,
+  OrbitControls,
+  GizmoHelper,
+  GizmoViewport
+} from "@react-three/drei";
 
-export function Scene({ children, orbit, cameraFov = 30, cameraPosition, cameraLookAt = new THREE.Vector3(0, 0, 0), lights = true }) {
+export function Scene({
+  children,
+  orbit,
+  cameraFov = 30,
+  cameraPosition,
+  cameraLookAt = new THREE.Vector3(0, 0, 0),
+  lights = true
+}) {
   return (
     <Canvas
       performance={{ min: 1 }}
@@ -10,9 +22,17 @@ export function Scene({ children, orbit, cameraFov = 30, cameraPosition, cameraL
       frameloop="demand"
       shadows
       camera={{ fov: cameraFov, position: cameraPosition }}
-      dpr={window.devicePixelRatio}>
-      <GizmoHelper alignment="bottom-right" margin={[60, 60]}>
-        <GizmoViewport axisColors={['red', 'green', 'blue']} labelColor="black" />
+      dpr={window.devicePixelRatio}
+    >
+      <GizmoHelper
+        renderPriority={null}
+        alignment="bottom-right"
+        margin={[60, 60]}
+      >
+        <GizmoViewport
+          axisColors={["red", "green", "blue"]}
+          labelColor="black"
+        />
       </GizmoHelper>
       <OrbitControls
         regress
@@ -27,7 +47,7 @@ export function Scene({ children, orbit, cameraFov = 30, cameraPosition, cameraL
       {children}
       {lights && (
         <>
-          <hemisphereLight args={['#fff', '#fff', 0.22]} />
+          <hemisphereLight args={["#fff", "#fff", 0.22]} />
           <spotLight
             intensity={0.6}
             position={[1.1, 4, 2]}
@@ -40,5 +60,5 @@ export function Scene({ children, orbit, cameraFov = 30, cameraPosition, cameraL
       )}
       <Stats showPanel={0} />
     </Canvas>
-  )
+  );
 }

@@ -1,31 +1,49 @@
-import { TransformControls } from '@react-three/drei'
-import { useRef, useEffect, useState, useMemo } from 'react'
-import * as THREE from 'three'
+import { TransformControls } from "@react-three/drei";
+import { useRef, useEffect, useState, useMemo } from "react";
+import * as THREE from "three";
 
 export function WrappedBlock({ orbit, blockGroup }) {
-  const transform = useRef()
+  const transform = useRef();
 
-  const [active, setActive] = useState(false)
+  const [active, setActive] = useState(false);
 
   useEffect(() => {
     if (transform.current) {
-      const { current: controls } = transform
+      const { current: controls } = transform;
       const callback = (event) => {
-        orbit.current.enabled = !event.value
-      }
-      transform.current.addEventListener('dragging-changed', callback)
-      return () => controls.removeEventListener('dragging-changed', callback)
+        orbit.current.enabled = !event.value;
+      };
+      transform.current.addEventListener("dragging-changed", callback);
+      return () => controls.removeEventListener("dragging-changed", callback);
     }
-  }, [active])
+  }, [active, orbit]);
 
-  const mat = useMemo(() => new THREE.MeshStandardMaterial({ color: active ? 'yellow' : 'white' }), [active])
-  const geom = useMemo(() => new THREE.BoxBufferGeometry(blockGroup[0].width, blockGroup[0].height, blockGroup[0].depth), [])
+  const mat = useMemo(
+    () => new THREE.MeshStandardMaterial({ color: "white" }),
+    []
+  );
+  const geom = useMemo(
+    () =>
+      new THREE.BoxBufferGeometry(
+        blockGroup[0].width,
+        blockGroup[0].height,
+        blockGroup[0].depth
+      ),
+    [blockGroup]
+  );
 
   const blockGroupMesh = blockGroup?.map((block, idx) => {
     return (
-      <mesh key={block.x + block.y + block.z} geometry={geom} material={mat} position-z={idx * -block.depth} castShadow receiveShadow />
-    )
-  })
+      <mesh
+        key={block.x + block.y + block.z}
+        geometry={geom}
+        material={mat}
+        position-z={idx * -block.depth}
+        castShadow
+        receiveShadow
+      />
+    );
+  });
 
   return (
     <>
@@ -35,11 +53,13 @@ export function WrappedBlock({ orbit, blockGroup }) {
         showY={active ? true : false}
         showZ={false}
         ref={transform}
-        mode="translate">
+        mode="translate"
+      >
         <group
           onClick={() => {
-            setActive(!active)
-          }}>
+            setActive(!active);
+          }}
+        >
           {blockGroupMesh}
         </group>
       </TransformControls>
@@ -50,11 +70,13 @@ export function WrappedBlock({ orbit, blockGroup }) {
           position={[blockGroup[0].x, blockGroup[0].y, blockGroup[0].z]}
           showX={active ? true : false}
           showY={active ? true : false}
-          showZ={false}>
+          showZ={false}
+        >
           <group
             onClick={(e) => {
-              setActive(!active)
-            }}>
+              setActive(!active);
+            }}
+          >
             {blockGroupMesh}
           </group>
         </TransformControls>
@@ -62,11 +84,12 @@ export function WrappedBlock({ orbit, blockGroup }) {
         <group
           position={[blockGroup[0].x, blockGroup[0].y, blockGroup[0].z]}
           onClick={() => {
-            setActive(!active)
-          }}>
+            setActive(!active);
+          }}
+        >
           {blockGroupMesh}
         </group>
       )} */}
     </>
-  )
+  );
 }
