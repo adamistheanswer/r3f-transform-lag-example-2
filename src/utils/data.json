@@ -1,0 +1,1514 @@
+{
+  "keyId": 19617,
+  "bays": [
+    {
+      "bayNumber": 1,
+      "levels": [
+        {
+          "levelNumber": 1,
+          "readings": [
+            {
+              "x": 93.0,
+              "y": 0.0,
+              "z": 6.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 13.5,
+              "width": 7.0,
+              "depth": 7.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.200000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 12.4,
+              "width": 6.9,
+              "depth": 6.9
+            },
+            {
+              "x": 23.5175,
+              "y": 0.0,
+              "z": 2.05,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.85,
+              "width": 6.53,
+              "depth": 6.53
+            },
+            {
+              "x": 46.665,
+              "y": 0.0,
+              "z": 5.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 13.5,
+              "width": 7.2,
+              "depth": 7.2
+            },
+            {
+              "x": 70.4825,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            }
+          ]
+        },
+        {
+          "levelNumber": 2,
+          "readings": [
+            {
+              "x": 69.3475,
+              "y": 0.0,
+              "z": 0,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 80.77375,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 92.2,
+              "y": 0.0,
+              "z": 3.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 14.0,
+              "width": 7.8,
+              "depth": 7.8
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.64000000000001,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 8.75,
+              "width": 5.01,
+              "depth": 5.01
+            },
+            {
+              "x": 11.43625,
+              "y": 0.0,
+              "z": 3.02,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.5,
+              "width": 5.28,
+              "depth": 5.28
+            },
+            {
+              "x": 23.1425,
+              "y": 0.0,
+              "z": 1.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.5,
+              "width": 5.5,
+              "depth": 5.5
+            },
+            {
+              "x": 35.06875,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 46.495,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 57.92125,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 3,
+          "readings": [
+            {
+              "x": 78.7,
+              "y": 0.0,
+              "z": 0.200000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 12.4,
+              "width": 6.9,
+              "depth": 6.9
+            },
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 15.9,
+              "width": 8.0,
+              "depth": 8.0
+            },
+            {
+              "x": 17.4,
+              "y": 0.0,
+              "z": 0.200000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 12.4,
+              "width": 6.9,
+              "depth": 6.9
+            },
+            {
+              "x": 33.7,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 49.0,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 64.3,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 4,
+          "readings": [
+            {
+              "x": 75.3,
+              "y": 0.0,
+              "z": 1.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 17.1,
+              "width": 5.6,
+              "depth": 5.6
+            },
+            {
+              "x": 58.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 37.7,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 16.0,
+              "width": 8.0,
+              "depth": 8.0
+            },
+            {
+              "x": 19.5,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 5.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 13.5,
+              "width": 7.2,
+              "depth": 7.2
+            },
+            {
+              "x": 93.2,
+              "y": 0.0,
+              "z": 0.700000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 20.4,
+              "width": 6.8,
+              "depth": 6.8
+            }
+          ]
+        },
+        {
+          "levelNumber": 5,
+          "readings": [
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.7,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 71.475,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 47.95,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 24.425,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            }
+          ]
+        },
+        {
+          "levelNumber": 6,
+          "readings": [
+            {
+              "x": 70.525,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 81.6125,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 92.7,
+              "y": 0.0,
+              "z": 5.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 13.5,
+              "width": 7.3,
+              "depth": 7.3
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 11.0875,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 23.075,
+              "y": 0.0,
+              "z": 5.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 13.5,
+              "width": 7.2,
+              "depth": 7.2
+            },
+            {
+              "x": 36.3625,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 47.45,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 59.4375,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 7,
+          "readings": [
+            {
+              "x": 16.6809090909091,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.64000000000001,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 8.75,
+              "width": 5.01,
+              "depth": 5.01
+            },
+            {
+              "x": 59.7581818181818,
+              "y": 0.0,
+              "z": 0.200000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 12.4,
+              "width": 6.9,
+              "depth": 6.9
+            },
+            {
+              "x": 69.9936363636364,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 78.3290909090909,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 86.6645454545455,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 50.0227272727273,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 6.4,
+              "depth": 6.4
+            },
+            {
+              "x": 41.6872727272727,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 33.3518181818182,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 25.0163636363636,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 8.34545454545455,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 8,
+          "readings": [
+            {
+              "x": 66.3,
+              "y": 0.0,
+              "z": 3.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 23.0,
+              "width": 10.6,
+              "depth": 5.2
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 17.7,
+              "width": 7.5,
+              "depth": 7.5
+            },
+            {
+              "x": 40.2,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 3,
+              "height": 16.5,
+              "width": 11.5,
+              "depth": 10.0
+            },
+            {
+              "x": 91.5,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 7,
+              "height": 19.4,
+              "width": 8.5,
+              "depth": 4.5
+            },
+            {
+              "x": 22.1,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 9,
+              "height": 14.5,
+              "width": 3.5,
+              "depth": 3.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bayNumber": 2,
+      "levels": [
+        {
+          "levelNumber": 1,
+          "readings": [
+            {
+              "x": 94.1,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 79.8257142857143,
+              "y": 0.0,
+              "z": 5.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 13.5,
+              "width": 7.2,
+              "depth": 7.2
+            },
+            {
+              "x": 67.7514285714286,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 52.1771428571429,
+              "y": 0.0,
+              "z": 1.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 11,
+              "height": 11.3,
+              "width": 8.5,
+              "depth": 3.0
+            },
+            {
+              "x": 39.8228571428571,
+              "y": 0.0,
+              "z": 3.02,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.5,
+              "width": 5.28,
+              "depth": 5.28
+            },
+            {
+              "x": 27.7485714285714,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 14.2742857142857,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 11.5,
+              "width": 6.4,
+              "depth": 6.4
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 5.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 14,
+              "height": 13.5,
+              "width": 7.2,
+              "depth": 7.2
+            }
+          ]
+        },
+        {
+          "levelNumber": 2,
+          "readings": [
+            {
+              "x": 20,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 16.0,
+              "width": 8.0,
+              "depth": 8.0
+            },
+            {
+              "x": 31.5114285714286,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 16.0,
+              "width": 8.0,
+              "depth": 8.0
+            },
+            {
+              "x": 45.2671428571429,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 56.0228571428571,
+              "y": 0.0,
+              "z": 4.64000000000001,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 8.75,
+              "width": 5.01,
+              "depth": 5.01
+            },
+            {
+              "x": 66.7885714285714,
+              "y": 0.0,
+              "z": 1.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 34,
+              "height": 10.2,
+              "width": 7.9,
+              "depth": 2.4
+            },
+            {
+              "x": 80.4442857142857,
+              "y": 0.0,
+              "z": 1.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 10.2,
+              "width": 7.0,
+              "depth": 2.2
+            },
+            {
+              "x": 93.2,
+              "y": 0.0,
+              "z": 1.10000000000001,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 12,
+              "height": 10.0,
+              "width": 6.8,
+              "depth": 2.8
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 9.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 1,
+              "height": 16.5,
+              "width": 20.0,
+              "depth": 25.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 3,
+          "readings": [
+            {
+              "x": 59.5366666666667,
+              "y": 0.0,
+              "z": 2.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 13,
+              "height": 14.0,
+              "width": 9.0,
+              "depth": 2.5
+            },
+            {
+              "x": 75.7683333333333,
+              "y": 0.0,
+              "z": 2.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 8,
+              "height": 14.2,
+              "width": 9.0,
+              "depth": 4.0
+            },
+            {
+              "x": 92.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 13.0,
+              "width": 8.0,
+              "depth": 5.0
+            },
+            {
+              "x": 43.315,
+              "y": 0.0,
+              "z": 0.410000000000004,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 9,
+              "height": 14.0,
+              "width": 8.99,
+              "depth": 3.81
+            },
+            {
+              "x": 24.6633333333333,
+              "y": 0.0,
+              "z": 7.14,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 2,
+              "height": 13.78,
+              "width": 11.42,
+              "depth": 13.78
+            },
+            {
+              "x": 12.4316666666667,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 3.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.2,
+              "depth": 5.2
+            }
+          ]
+        },
+        {
+          "levelNumber": 4,
+          "readings": [
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0600000000000023,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 17.9,
+              "width": 8.66,
+              "depth": 8.66
+            },
+            {
+              "x": 25.12,
+              "y": 0.0,
+              "z": 0.700000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 10.7,
+              "width": 8.5,
+              "depth": 8.5
+            },
+            {
+              "x": 50.08,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 71.54,
+              "y": 0.0,
+              "z": 6.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 17.4,
+              "width": 7.0,
+              "depth": 7.0
+            },
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 16.0,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 5,
+          "readings": [
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 83.8375,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 7,
+              "height": 9.0,
+              "width": 4.5,
+              "depth": 4.5
+            },
+            {
+              "x": 94.4,
+              "y": 0.0,
+              "z": 1.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.2,
+              "width": 5.6,
+              "depth": 5.6
+            },
+            {
+              "x": 57.6125,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 45.65,
+              "y": 0.0,
+              "z": 5.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 11.5,
+              "width": 5.9,
+              "depth": 5.9
+            },
+            {
+              "x": 11.0625,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 22.125,
+              "y": 0.0,
+              "z": 5.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 10.1,
+              "width": 5.8,
+              "depth": 5.8
+            },
+            {
+              "x": 33.9875,
+              "y": 0.0,
+              "z": 1.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.2,
+              "width": 5.6,
+              "depth": 5.6
+            },
+            {
+              "x": 68.675,
+              "y": 0.0,
+              "z": 7.40000000000001,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 3,
+              "height": 8.1,
+              "width": 9.1,
+              "depth": 9.1
+            }
+          ]
+        },
+        {
+          "levelNumber": 6,
+          "readings": [
+            {
+              "x": 15.2116666666667,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 10.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 22.8175,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 30.4233333333333,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.5,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 38.0291666666667,
+              "y": 0.0,
+              "z": 6.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 13.94,
+              "width": 7.0,
+              "depth": 7.0
+            },
+            {
+              "x": 47.635,
+              "y": 0.0,
+              "z": 0.920000000000002,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.2,
+              "width": 5.63,
+              "depth": 5.63
+            },
+            {
+              "x": 55.8708333333333,
+              "y": 0.0,
+              "z": 6.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 13.94,
+              "width": 7.0,
+              "depth": 7.0
+            },
+            {
+              "x": 65.4766666666667,
+              "y": 0.0,
+              "z": 1.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.2,
+              "width": 5.6,
+              "depth": 5.6
+            },
+            {
+              "x": 73.6825,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 11.0,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 95.5,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 17,
+              "height": 9.0,
+              "width": 4.5,
+              "depth": 4.5
+            },
+            {
+              "x": 88.3941666666667,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 7,
+              "height": 9.0,
+              "width": 4.5,
+              "depth": 4.5
+            },
+            {
+              "x": 81.2883333333333,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 7,
+              "height": 9.0,
+              "width": 4.5,
+              "depth": 4.5
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 7.60583333333333,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        },
+        {
+          "levelNumber": 7,
+          "readings": [
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 52.1714285714286,
+              "y": 0.0,
+              "z": 3.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 9,
+              "height": 10.5,
+              "width": 9.3,
+              "depth": 3.5
+            },
+            {
+              "x": 68.2642857142857,
+              "y": 0.0,
+              "z": 3.45,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 14.38,
+              "width": 6.25,
+              "depth": 6.25
+            },
+            {
+              "x": 81.3071428571429,
+              "y": 0.0,
+              "z": 0.200000000000003,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 15,
+              "height": 12.4,
+              "width": 6.9,
+              "depth": 6.9
+            },
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 11.7928571428571,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 23.5857142857143,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 35.3785714285714,
+              "y": 0.0,
+              "z": 0.920000000000002,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 15.0,
+              "width": 10.0,
+              "depth": 5.63
+            }
+          ]
+        },
+        {
+          "levelNumber": 8,
+          "readings": [
+            {
+              "x": 7.03083333333333,
+              "y": 0.0,
+              "z": 0.920000000000002,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 16,
+              "height": 11.25,
+              "width": 5.63,
+              "depth": 5.63
+            },
+            {
+              "x": 14.6916666666667,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 21.7225,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 28.7533333333333,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 13,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 35.7841666666667,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 10.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 42.815,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 49.8458333333333,
+              "y": 0.0,
+              "z": 3.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.7,
+              "width": 5.2,
+              "depth": 5.2
+            },
+            {
+              "x": 57.0766666666667,
+              "y": 0.0,
+              "z": 4.2,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 5,
+              "height": 17.3,
+              "width": 6.1,
+              "depth": 6.1
+            },
+            {
+              "x": 65.2075,
+              "y": 0.0,
+              "z": 3.9,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 18.5,
+              "width": 7.9,
+              "depth": 7.7
+            },
+            {
+              "x": 75.1383333333334,
+              "y": 0.0,
+              "z": 3.5,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 18.6,
+              "width": 7.9,
+              "depth": 7.8
+            },
+            {
+              "x": 85.0691666666667,
+              "y": 0.0,
+              "z": 3.1,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 4,
+              "height": 17.5,
+              "width": 7.9,
+              "depth": 7.9
+            },
+            {
+              "x": 95.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 6,
+              "height": 9.8,
+              "width": 5.0,
+              "depth": 5.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 4.7,
+              "horizontal": 1,
+              "vertical": 1,
+              "count": 20,
+              "height": 10.9,
+              "width": 5.0,
+              "depth": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
